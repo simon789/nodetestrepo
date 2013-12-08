@@ -1,0 +1,26 @@
+{
+  "name": "nodetest",
+  "version": "0.0.0",
+  "description": "does nothing just a test",
+  "main": "chat.js",
+  "dependencies": {
+    "mysql": "~2.0.0-alpha5",
+    "socket.io": "~0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simon789/nodetest.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "simon789",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/simon789/nodetest/issues"
+  }
+}
